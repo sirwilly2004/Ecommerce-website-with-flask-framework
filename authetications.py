@@ -5,7 +5,7 @@ from flask_login import UserMixin, login_user, LoginManager, login_required, cur
 
 
 app = Flask(__name__)
-app.config['SECRET_KEY'] = '225635GDUET4555555dsdgf3445455;;dl;3'
+app.config['SECRET_KEY'] = '2256your secretl;3'
 
 
 # CONNECT TO DATABASE
